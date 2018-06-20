@@ -1,1 +1,3 @@
 ignoreThisFile.cpp
+*.log
+testDir/
