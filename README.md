@@ -14,6 +14,6 @@ asdadasdasdasdasdasdasdasadsdasasda
 sdasd
 
 ## How To Contribute
-Sample website with plenty of files for demos
+Please fork this repo and then issue pull requests for review
 
 2014 GIT.TRAINING
