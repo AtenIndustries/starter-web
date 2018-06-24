@@ -2,6 +2,8 @@
 
 Adding a line for rebasing lol
 
+More changes from myfeature
+
 This repository is for showing how Git and GitHub work
 asdasdasdasdasdads
 ##Introduction
